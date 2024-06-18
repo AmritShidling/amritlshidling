@@ -1091,3 +1091,4 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 
 .btn-get-quote {
   visibility: hidden;
+}
