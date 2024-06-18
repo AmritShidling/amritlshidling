@@ -1088,3 +1088,6 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 #copyright p a:hover {
   color: #00b4d9;
 }
+
+btn-get-quote{
+  visibility: hidden;
